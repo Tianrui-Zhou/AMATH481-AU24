@@ -1,5 +1,4 @@
 Student Name: Tianrui Zhou
-
-Student ID: 2135066
-
-NetID: tianrz5
+Undergraduate program at the University of Washington
+Major: Computational Finance & Risk Management (Data Science track)
+Applied Mathematics Department
